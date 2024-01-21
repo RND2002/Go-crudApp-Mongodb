@@ -1,4 +1,3 @@
-// mongodb+srv://codesite81:<password>@cluster0.upbvcsv.mongodb.net/?retryWrites=true&w=majority
 package main
 
 import (
